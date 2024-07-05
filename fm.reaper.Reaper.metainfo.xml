@@ -28,6 +28,11 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release date="2024-06-26" version="v7.17">
+      <description>
+        <p>REAPER 7.17: As before, but adjusted.</p>
+      </description>
+    </release>
     <release date="2024-04-17" version="v7.15">
       <description>
         <p>REAPER 7.15: I would rather have questions that can't be answered than answers that can't be questioned.</p>
